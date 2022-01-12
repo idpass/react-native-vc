@@ -36,13 +36,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/typelogic/react-native-vc",
-  "author": "typelogic <typelogic@pm.me> (https://github.com/typelogic)",
+  "repository": "https://github.com/idpass/react-native-vc",
+  "author": "dexter <dexter@newlogic.com> (https://github.com/idpass)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/typelogic/react-native-vc/issues"
+    "url": "https://github.com/idpass/react-native-vc/issues"
   },
-  "homepage": "https://github.com/typelogic/react-native-vc#readme",
+  "homepage": "https://github.com/idpass/react-native-vc#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
