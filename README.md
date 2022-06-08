@@ -1,6 +1,6 @@
 # react-native-vc
 
-Verifies the signature of a JWT string representation of a Verifiable Credential
+React Native component to verify the signature of a JWT string representation of a Verifiable Credential.
 
 ## Installation
 
