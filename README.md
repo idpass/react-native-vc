@@ -4,8 +4,7 @@ Verifies the signature of a JWT string representation of a Verifiable Credential
 
 ## Installation
 
-```
-sh
+``` sh
 npm install react-native-vc
 ```
 
